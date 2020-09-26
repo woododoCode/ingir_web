@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+
+.header {
+  margin-top: 67px;
+  text-align: center;
+  margin-bottom: 4em;
+}
+
+nav {
+  font-family: Nunito;
+  font-weight: 400;
+  font-size: .75em;
+  margin-top: 58px;
+  text-transform: uppercase;
+  letter-spacing: .3em;
+}
+
+nav a {
+  text-decoration: none;
+  color: #b1b1b1;
+  margin: 0 1.25em;
+}
+
+img[src="images/Img1.png"] {
+  width: 100%;
+}
