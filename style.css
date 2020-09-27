@@ -26,3 +26,101 @@ nav a {
 img[src="images/Img1.png"] {
   width: 100%;
 }
+.insert-image {
+  width: 33%;
+}
+.right {
+  margin-left: 3%;
+}
+.container {
+  padding-left: 15%;
+  padding-right: 15%;
+  text-align: center;
+}
+.x {
+  margin-top: 2em;
+  margin-bottom: 5em;
+}
+.container_x img {
+  width: 20%;
+}
+.second img {
+  margin-top: -.38em;
+}
+
+.main {
+  margin-top: 4.3em;
+  text-align: center;
+  padding: 0 20%;
+}
+
+.first > .title {
+  font-family: Nunito;
+  font-weight: 600;
+  font-size: 2.25em;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+}
+
+.first > p {
+  font-size: .75em;
+  font-family: Nunito;
+  font-weight: 400;
+  color: #9a9a9a;
+  margin-top: 3.5em;
+  padding-bottom: 2em;
+}
+
+.links {
+  margin-bottom: 10em;
+}
+.links a {
+  margin: 0 3em;
+}
+.links a img {
+  height: 2em;
+}
+
+.footer {
+  margin: 4em 4% 18em 4%;
+}
+.footer ul {
+  list-style: none;
+}
+.footer ul li {
+  display: inline;
+}
+.footer img[src="images/Logo.png"] {
+  width: 8%;
+}
+
+.contact {
+  font-family: Nunito;
+  font-weight: 600;
+}
+.contact_text {
+  font-family: Nunito;
+  font-weight: 400;
+  color: #989898;
+}
+.logo img {
+  position: absolute;
+  left: 4%
+}
+.contact_text a {
+  text-decoration: none;
+  color: #989898;
+}
+
+.con-1 {
+  position: absolute;
+  left: 20%;
+}
+.con-2 {
+  position: absolute;
+  left: 50%;
+}
+.con-3 {
+  position: absolute;
+  left: 80%;
+}
